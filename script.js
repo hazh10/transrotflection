@@ -164,7 +164,7 @@ let symX = 0;
 let symY = 0;
 
 let help = []
-help.push("Help Guide")
+help.push("Help Guide (my dad forced me to make this project)")
 help.push("Left Click - Place point / set line of sym.")
 help.push("Scroll to zoom in/out")
 help.push("Right Click - Move around")
